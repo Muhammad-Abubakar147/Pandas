@@ -37,3 +37,7 @@ It includes basic to intermediate concepts with real examples to understand how 
 - Build strong foundation for Data Science & Machine Learning  
 
 ---
+## 🚀 How to Use
+
+1. Clone this repository  
+```bash
