@@ -29,3 +29,11 @@ It includes basic to intermediate concepts with real examples to understand how 
 - Mini practice datasets  
 
 ---
+## 🎯 Learning Goals
+
+- Understand how Pandas works for data analysis  
+- Learn how to clean and transform data  
+- Perform real-world data operations  
+- Build strong foundation for Data Science & Machine Learning  
+
+---
