@@ -41,3 +41,12 @@ It includes basic to intermediate concepts with real examples to understand how 
 
 1. Clone this repository  
 ```bash
+----
+##📊 Why Pandas?
+
+Pandas is one of the most important libraries in Data Science because it helps to:
+
+Handle large datasets easily
+Clean messy data
+Perform fast analysis
+Prepare data for Machine Learning
