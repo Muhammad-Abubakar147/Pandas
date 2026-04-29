@@ -18,3 +18,14 @@ It includes basic to intermediate concepts with real examples to understand how 
 - NumPy (basic usage) 🔢  
 
 ---
+## 📂 What You Will Find Here
+
+- Series and DataFrames  
+- Reading CSV / Excel files  
+- Data Cleaning (missing values, duplicates)  
+- Filtering and Sorting Data  
+- GroupBy operations  
+- Data analysis exercises  
+- Mini practice datasets  
+
+---
