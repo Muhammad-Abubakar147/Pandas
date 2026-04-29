@@ -10,3 +10,11 @@ This repository is created to learn and practice **data analysis using Pandas** 
 It includes basic to intermediate concepts with real examples to understand how data is handled and analyzed.
 
 ---
+## 🛠️ Technologies Used
+
+- Python 🐍  
+- Pandas 📊  
+- Jupyter Notebook / VS Code 💻  
+- NumPy (basic usage) 🔢  
+
+---
