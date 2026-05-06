@@ -8,3 +8,22 @@ Pands is a python library which use for data manipulation(changing,organizing,tr
  for example :
 
  if we write a student name we will also write student's mother and father name 
+
+ Founder of pands :
+
+ WES MICKNEY is pandas Founder who make this python library in 2008 for data analysis 
+ and data manipulation 
+
+ Feilds in which use pandas :
+
+ => Machine learnig
+ => Ai (Artificial intelligence)
+ => Data analysis
+ => Data scientist
+ => Bussiness analyst
+ => Financial analyst
+ => Reaserach scientist
+ => Marketing analyst
+ 
+
+
