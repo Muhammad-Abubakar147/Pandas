@@ -24,6 +24,11 @@ Pands is a python library which use for data manipulation(changing,organizing,tr
  => Financial analyst
  => Reaserach scientist
  => Marketing analyst
+
+ How to install pandas
+
+ => OPEN terminal in Vs code and write =>" pip install pandas"
+
  
 
 
