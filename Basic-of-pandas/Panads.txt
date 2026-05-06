@@ -1,0 +1,10 @@
+Pands is a python library which use for data manipulation(changing,organizing,transforming to usedsathd the concepts)
+ for example:
+  
+  for students data (if we mistankenly write 9 marks instead of 10 then we use 
+ data manipulation in pandas)
+ and pandas is also use for the data analysis in which we analyse the data (finding patterns and trends)
+
+ for example :
+
+ if we write a student name we will also write student's mother and father name 
