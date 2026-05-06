@@ -29,6 +29,10 @@ Pands is a python library which use for data manipulation(changing,organizing,tr
 
  => OPEN terminal in Vs code and write =>" pip install pandas"
 
- 
+ How to import pandas
+
+ => import pandas as pd 
+
+
 
 
