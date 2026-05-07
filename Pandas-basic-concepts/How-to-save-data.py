@@ -10,3 +10,4 @@ print(df)
 
 df.to_csv("output.csv",index=False)  #This is method to save data =>in csv file 
 df.to_excel("output.xlsx",index=False) #This is saving in excel form 
+df.to_json("output.json",index=True) #This is for saving in jason form 
