@@ -15,7 +15,7 @@ It includes basic to intermediate concepts with real examples to understand how 
 - Python 🐍  
 - Pandas 📊  
 - Jupyter Notebook / VS Code 💻  
-- NumPy (basic usage) 🔢  
+- NumPy (basic usage) 🔢  ..
 
 ---
 ## 📂 What You Will Find Here
