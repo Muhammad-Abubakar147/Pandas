@@ -13,3 +13,5 @@ print(df.tail())
 #If uh want to read specific rows of data thsn use this
 
 print("This is specific rows")
+
+print(df.tail(17)) 
