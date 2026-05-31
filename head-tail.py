@@ -14,4 +14,4 @@ print(df.tail())
 
 print("This is specific rows")
 
-print(df.tail(17)) 
+print(df.tail(17))  #Here (tail 17 ) print end seventeen lines of data
