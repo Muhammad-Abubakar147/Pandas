@@ -9,3 +9,7 @@ print(df.head()) #This is for reading first 5 rows
 print("Last five rows of data")
 
 print(df.tail())
+
+#If uh want to read specific rows of data thsn use this
+
+print("This is specific rows")
