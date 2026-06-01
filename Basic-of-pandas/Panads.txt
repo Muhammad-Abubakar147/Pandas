@@ -28,12 +28,16 @@ Pands is a python library which use for data manipulation(changing,organizing,tr
  => Marketing analyst
 
  How to install pandas :
- 
+
  => OPEN terminal in Vs code and write =>" pip install pandas"
 
  How to import pandas
 
  => import pandas as pd 
+
+                        =>It will import pandas library  and uh can work with pandas library from writting these words ("import pandas as pd ") 
+
+
 
 
 
