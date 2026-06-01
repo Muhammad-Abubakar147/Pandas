@@ -2,9 +2,9 @@
 import pandas as pd
 
 DATA = {
-    "NAME": ["muhammad", "abubakar"],
-    "age": [21, 32],
-    "city": ["faisalabad", "samnabad"]
+    "NAME": ["muhammad", "abubakar" , "ammar"],
+    "age": [21, 32 ,32],
+    "city": ["faisalabad", "samnabad"  ,"lahore"]
 }
 
 df = pd.DataFrame(DATA)
