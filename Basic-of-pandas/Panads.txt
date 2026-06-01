@@ -4,7 +4,7 @@ Pands is a python library which use for data manipulation(changing,organizing,tr
 => For students data (if we mistankenly write 9 marks instead of 10 then we use 
 
  data manipulation in pandas)
- 
+
  and pandas is also use for the data analysis in which we analyse the data (finding patterns and trends)
 
  for example :
@@ -27,8 +27,8 @@ Pands is a python library which use for data manipulation(changing,organizing,tr
  => Reaserach scientist
  => Marketing analyst
 
- How to install pandas
-
+ How to install pandas :
+ 
  => OPEN terminal in Vs code and write =>" pip install pandas"
 
  How to import pandas
