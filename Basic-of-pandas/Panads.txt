@@ -1,4 +1,5 @@
 Pands is a python library which use for data manipulation(changing,organizing,transforming to usedsathd the concepts)
+
  for example:
   
 => For students data (if we mistankenly write 9 marks instead of 10 then we use 
@@ -33,11 +34,11 @@ Pands is a python library which use for data manipulation(changing,organizing,tr
 
  How to import pandas
 
- => import pandas as pd 
+ => " import pandas as pd "
 
-                        =>It will import pandas library  and uh can work with pandas library from writting these words ("import pandas as pd ") 
+                        => It will import pandas library  and uh can work with pandas library from writting these words ("import pandas as pd ") 
 
-
+pandas 
 
 
 
