@@ -9,4 +9,5 @@ DATA = {
 df = pd.DataFrame(DATA)
 print(df)
 
+print("Structure of data")
 print(df.shape )
