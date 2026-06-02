@@ -8,3 +8,5 @@ DATA = {
 
 df = pd.DataFrame(DATA)
 print(df)
+
+print(df.shape )
