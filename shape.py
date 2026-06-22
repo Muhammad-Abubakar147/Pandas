@@ -10,5 +10,5 @@ df = pd.DataFrame(DATA)
 print(df)
 
 print("Structure of data")
-#Structure of data
+#Structure of data .
 print(df.shape ) #It will show all types of data (structure of data)
