@@ -18,4 +18,8 @@ This repository contains my practice code and examples while learning the **Pand
 
 - Python
 - Pandas
-- VS Code 
+- VS Code
+
+## 🎯 Purpose
+
+The purpose of this repository is to practice Pandas fundamentals and build a strong foundation in data analysis for Data Science and Machine Learning.
