@@ -14,3 +14,8 @@ This repository contains my practice code and examples while learning the **Pand
 - Saving data to CSV, Excel, and JSON
 - Basic Pandas operations
 
+## 🛠️ Technologies Used
+
+- Python
+- Pandas
+- VS Code 
