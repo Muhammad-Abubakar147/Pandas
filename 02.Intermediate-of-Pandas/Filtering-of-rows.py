@@ -18,3 +18,11 @@ print("Displaying employees whos salay is > than 30000")
 high_salary= df[df["Salary"]>30000]
 
 print(high_salary)
+
+#How to Filter multiple rows in pandas 
+
+print("Displaying employees whos salary > 30000 & age > 20")
+
+filtered=df[(df["Salary"]>4000) & (df["Age"]>25)]
+
+print(filtered)
