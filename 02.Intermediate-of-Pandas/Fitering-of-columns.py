@@ -12,4 +12,11 @@ data ={
 
 df=pd.DataFrame(data)
 
-print(df)
+# print(df)
+
+#how to access a single column
+print("Displaying a single column from dataset :")
+
+
+name=df["Name"]
+print(name)
