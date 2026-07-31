@@ -10,4 +10,11 @@ data ={
 
 df=pd.DataFrame(data)
 
-print(df)
+# print(df)
+
+#how to filter a single row in pandas
+
+print("Displaying employees whos salay is > than 30000")
+high_salary= df[df["Salary"]>30000]
+
+print(high_salary)
