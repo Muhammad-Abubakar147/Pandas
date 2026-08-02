@@ -1,0 +1,1 @@
+#Here we will disscuss how to modified new things in pandas like how to add new columns how to add rows and how to remove both and many things .
