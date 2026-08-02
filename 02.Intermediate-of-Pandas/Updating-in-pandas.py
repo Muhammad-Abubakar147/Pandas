@@ -11,3 +11,8 @@ df=pd.DataFrame(data)
 
 #syntax for updating things in pandas 
 # df.loc[row_index,"column_name"]=New_value add 
+
+#here we will update data 
+
+df.loc[0,"Salary"]=50000
+print(df)
