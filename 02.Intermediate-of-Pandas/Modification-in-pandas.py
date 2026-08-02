@@ -18,3 +18,9 @@ df=pd.DataFrame(data)
 
 df["Bonus"]=df["Salary"]*0.1
 print(df) #it will add at the end of the column not at fvrt index 
+
+#for specific index (insert method) is used . 
+
+df.insert(0,"Employee Id",[10,20,30,40,50,60,70])
+
+print(df)
