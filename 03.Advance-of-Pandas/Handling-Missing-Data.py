@@ -1,1 +1,1 @@
-#Missing data is very basic concept in pandas and how can we handle it in pandas we will disscuss here .
+#Missing data is very basic concept in pandas and how can we handle it in pandas we will disscuss here .Pandas give us some methods which is use in handling missing data .
