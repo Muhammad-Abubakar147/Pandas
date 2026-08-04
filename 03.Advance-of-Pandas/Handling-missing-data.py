@@ -1,1 +1,0 @@
-#how to handle missing data in pandas ,How to drop those data which is missing in data and not essential for us .
