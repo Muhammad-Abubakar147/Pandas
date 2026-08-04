@@ -1,0 +1,1 @@
+#Interpulation is a technique which give estimated value for example if our data is 10,20,None,40,50 ,Then this method give us 30 which is estimated value for it .
