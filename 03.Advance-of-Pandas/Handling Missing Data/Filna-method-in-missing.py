@@ -16,3 +16,13 @@ df=pd.DataFrame(data)
 
 df.fillna(0,inplace=True)
 print(df)
+
+
+#          Name   Age         City    Salary
+# 0    Abubakar  21.0    Fiaslabad   20000.0
+# 1           0   0.0            0       0.0
+# 2       Hamza  19.0  Nvolty pull   40000.0
+# 3  Moiz Ahmad  23.0    Samanabad   50000.0
+# 4      Zubair  24.0    Samanabad   60000.0
+# 5      Faizan  25.0    Samanabad   70000.0
+# 6       Fahad  26.0    Samanabad  350000.0
