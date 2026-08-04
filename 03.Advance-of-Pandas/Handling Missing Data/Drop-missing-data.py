@@ -16,3 +16,8 @@ df=pd.DataFrame(data)
 
 df.dropna(inplace=True)
 print(df)
+
+
+#if we pass this syntax 
+# df.dropna(axis=0,inplace=True) axis=0 work for rows removing from the data 
+#df.dropna(axis=1,inplace=True)  axis=0 work for columns removing from the data .
