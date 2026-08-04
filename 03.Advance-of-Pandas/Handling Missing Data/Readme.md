@@ -8,3 +8,11 @@ This folder covers the essential techniques for handling missing values in Panda
 - **Drop-missing-data.py** – Remove missing values with `dropna()`.
 - **Fillna-method-in-missing.py** – Fill missing values using `fillna()`, `ffill()`, and `bfill()`.
 - **Interpolation.py** – Estimate missing values using `interpolate()`.
+
+## 🎯 Learning Outcomes
+
+- Detect missing values
+- Remove missing data
+- Fill missing values
+- Apply interpolation techniques
+- Prepare datasets for data analysis and machine learning
