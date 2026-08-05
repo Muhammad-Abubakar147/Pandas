@@ -16,3 +16,9 @@ print("Orignal Data : ")
 
 print(df)
 
+#For sorting of data syntax is :
+
+df.sort_values(by="Name",ascending=True,inplace=True) #for sorting one column in data 
+print("Sorting data :")
+
+print(df)
