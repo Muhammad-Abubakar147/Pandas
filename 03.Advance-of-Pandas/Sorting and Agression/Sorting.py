@@ -22,3 +22,11 @@ df.sort_values(by="Name",ascending=True,inplace=True) #for sorting one column in
 print("Sorting data :")
 
 print(df)
+
+
+#Sorting of data for multiple columns 
+print("Sorting of data for multiple columns :")
+
+df.sort_values(by=["Name","Age","Salary"],ascending=[True,False,False],inplace=True) #for multiple coulmns
+
+print(df)
