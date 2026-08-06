@@ -16,3 +16,9 @@ marks = pd.DataFrame({
 
 result = pd.merge(students, marks, on="ID")
 print(result)
+
+
+#    ID   Name  Marks
+# 0   1    Ali     85
+# 1   2   Sara     90
+# 2   3  Ahmed     78  output
