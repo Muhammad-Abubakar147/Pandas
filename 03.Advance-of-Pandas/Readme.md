@@ -8,3 +8,8 @@ This repository contains advanced Pandas concepts with practical examples for da
 - Sorting & Aggregation
 - Merging & Joining
 - Grouping Data
+
+## 🛠️ Technologies
+
+- Python
+- Pandas
