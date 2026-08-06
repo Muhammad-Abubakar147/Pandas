@@ -17,3 +17,13 @@ print(result)
 # IT       55000.0
 # Sales    55000.0
 # Name: Salary, dtype: float64
+
+
+df.groupby("Department")["Salary"].sum()      # Total salary
+df.groupby("Department")["Salary"].mean()     # Average salary
+df.groupby("Department")["Salary"].max()      # Maximum salary
+df.groupby("Department")["Salary"].min()      # Minimum salary
+df.groupby("Department")["Salary"].count()    # Number of employees
+
+print("ALL ABOUT GROUPING OF DATA :")
+print(df)
