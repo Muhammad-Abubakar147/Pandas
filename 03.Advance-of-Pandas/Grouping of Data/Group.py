@@ -1,0 +1,1 @@
+#groupby() in Pandas is used to group rows that have the same value in one or more columns and then perform calculations on each group separately.
