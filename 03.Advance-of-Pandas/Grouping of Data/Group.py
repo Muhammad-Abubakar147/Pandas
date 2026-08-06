@@ -27,3 +27,12 @@ df.groupby("Department")["Salary"].count()    # Number of employees
 
 print("ALL ABOUT GROUPING OF DATA :")
 print(df)
+
+
+# ALL ABOUT GROUPING OF DATA :
+#   Department  Salary
+# 0         IT   50000
+# 1         HR   40000
+# 2         IT   60000
+# 3         HR   45000
+# 4      Sales   55000 (output)
