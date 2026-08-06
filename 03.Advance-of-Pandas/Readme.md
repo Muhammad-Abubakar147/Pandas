@@ -13,3 +13,10 @@ This repository contains advanced Pandas concepts with practical examples for da
 
 - Python
 - Pandas
+
+## 🎯 Purpose
+
+Practice advanced Pandas operations and improve data manipulation skills using real-world examples.
+
+---
+⭐ If you find this repository helpful, don't forget to star it.
