@@ -43,5 +43,12 @@ It includes basic to intermediate concepts with real examples to understand how 
 - Basic Pandas operations
 
 ## 🚀 02. Intermediate of Pandas
+### 📂 Topics Covered
+
+- **Filtering-of-rows.py** – Filter rows using conditions.
+- **Filtering-of-columns.py** – Select and filter specific columns.
+- **Shape-method.py** – Get the shape (rows and columns) of a DataFrame.
+- **Modification-Method.py** - Can modify Data .
+- **Update-Method.py** - We can update dataset .
 
 
