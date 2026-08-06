@@ -12,3 +12,11 @@ df = pd.DataFrame(data)
 
 result = df.groupby(["Department", "Gender"])["Salary"].mean()
 print(result)
+
+
+# Department  Gender
+# HR          Female    46000.0
+#             Male      40000.0
+# IT          Female    60000.0
+#             Male      52500.0
+# Name: Salary, dtype: float64 (output on terminal)
