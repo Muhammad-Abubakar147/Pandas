@@ -29,15 +29,7 @@ It includes basic to intermediate concepts with real examples to understand how 
 - Mini practice datasets  
 
 ---
-## 🎯 Learning Goals
+## 📚 Repository Structure
 
-- Understand how Pandas works for data analysis  
-- Learn how to clean and transform data  
-- Perform real-world data operations  
-- Build strong foundation for Data Science & Machine Learning  
+### 📖 01. Basic of Pandas
 
----
-## 🚀 How to Use
-
-1. Clone this repository  
-```bash
