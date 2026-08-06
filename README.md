@@ -42,4 +42,6 @@ It includes basic to intermediate concepts with real examples to understand how 
 - Saving data to CSV, Excel, and JSON
 - Basic Pandas operations
 
+## 🚀 02. Intermediate of Pandas
+
 
