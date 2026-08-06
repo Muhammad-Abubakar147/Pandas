@@ -31,5 +31,15 @@ It includes basic to intermediate concepts with real examples to understand how 
 ---
 ## 📚 Repository Structure
 
-### 📖 01. Basic of Pandas
+## 📖 01. Basic of Pandas
+### 📂 Topics Covered
+
+- Reading data from files
+- Creating DataFrames
+- `head()` and `tail()` methods
+- `info()` method
+- `describe()` method
+- Saving data to CSV, Excel, and JSON
+- Basic Pandas operations
+
 
