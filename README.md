@@ -51,4 +51,30 @@ It includes basic to intermediate concepts with real examples to understand how 
 - **Modification-Method.py** - Can modify Data .
 - **Update-Method.py** - We can update dataset .
 
+### ⚡ 03. Advance of Pandas
+
+#### 📌 Handling Missing Data
+- isnull()
+- dropna()
+- fillna()
+- Interpolation
+- Forward Fill
+- Backward Fill
+
+#### 📌 Sorting & Aggregation
+- Sorting Data
+- Aggregation Functions
+- Advanced Aggregation
+
+#### 📌 Merging & Joining
+- Merge
+- Join
+- Concatenate
+
+#### 📌 Grouping Data
+- GroupBy
+- Aggregate Functions
+- Data Summarization
+
+---
 
